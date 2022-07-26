@@ -1,0 +1,13 @@
+.background{
+    background-color: lightpink;
+}
+
+.text{
+    color:green;
+    font-weight: bold;
+}
+
+.title{
+    color:blue;
+    font-size: 40px;
+}
