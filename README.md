@@ -1,1 +1,2 @@
-# odin-recipes
+# This project is going to be setting up a basic website that will link to some recipes.
+# So far, I have learned HTML basics and will be implementing them to complete the first project and create a multi-page website.
